@@ -1,0 +1,118 @@
+{
+  "basics": {
+    "name": "Pawan Kumar",
+    "label": "Full Stack Web Developer",
+    "picture": "",
+    "email": "pavankumar46@hotmail.com",
+    "phone": "(+91)8095118498",
+    "website": "",
+    "summary": "I am an highly active individual with over 3 years of experience in Web Development. I am proficient in Web Technologies like HTML, CSS, LESS, JS, jQuery, React.js, Angular.js, Node.js, Restful Services etc.., Familiar tools include: Git, Jira, SVN. Also, I come with crazy Debugging skills and passion to write clean, modular, reusable and extensible code.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "Bengaluru",
+      "countryCode": "IN",
+      "region": "Karnataka"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "company": "Echidna Software Private Limited",
+      "position": "Interactive Developer.",
+      "website": "https://echidna.co",
+      "startDate": "2016-05-05",
+      "endDate": "2017-09-09",
+      "summary": "Echidna is a service based company which is into eCommerce(B2C and B2B) application development in platforms such as Kibo, Magento, OCC..; ",
+      "highlights": [
+        "Technologies Used: HTML, CSS, Javascript, jQuery, Angular.js, React.js, Redux, Backbone.js,Hypr templating engine,  LESS, ECMAScript 2015 and Node",
+        "Worked with and Led a team to build beautiful, performing user friendly  sites and deploy them into production environments",
+        "Came up with lots of ideas, POCs and implementations for working around the framework to meet client requirements",
+        "Following Agile methodology for the development and deployment(Client Interactions and Development follow ups on JIRA - epics, stories and defects.)",
+        "Portfolio: https://jellybelly.com, https://m.kohls.com, https://www.pinkcoconutboutique.com"
+      ]
+    },
+    {
+      "company": "Colimetrics Software Private Limited",
+      "position": "Project Lead - Full Stack Developer",
+      "website": "https://lumoslearning.com",
+      "startDate": "2014-10-06",
+      "endDate": "2016-05-04",
+      "summary": "",
+      "highlights": [
+        "Technologies Used: HTML, CSS, Javascript, jQuery, Angular.js, PHP, Wordpress",
+        "Leading a team working on web development, SEO On page & Off page activities and Testing. Brainstorming and coming up with the tasks/set of activities for the team members.",
+        "Actively Involved in the complete development cycle, from Design documentation, value proposition, Defining DB structure, Backend services, frontend UI/Ux and Unit testing.",
+        "Building web services for the Lumos’ cross platform mobile applications  StepUp and SchoolUp. Built app to compute and display student performance reports using web services via ajax."
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Kidogos",
+      "position": "Math Instructor",
+      "website": "",
+      "startDate": "2010-01-01",
+      "endDate": "2015-01-01",
+      "summary": "",
+      "highlights": [
+        "Taught Mathematics for 10th CBSE and ICSE Board Students; average ratings of 4.8 out of 5.0."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "VTU",
+      "area": "Electronics and Communication",
+      "studyType": "B.E",
+      "startDate": "2010-09-01",
+      "endDate": "2014-08-01",
+      "gpa": "65",
+      "courses": []
+    }
+  ],
+  "awards": [
+    {
+      "title": "Star Employee",
+      "date": "2017-03-01",
+      "awarder": "Echidna Software Pvt Limited",
+      "summary": ""
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Web Development",
+      "level": "Master",
+      "keywords": [
+        "HTML5",
+        "CSS3",
+        "Javascript",
+        "jQuery",
+        "Angular.js 1.x",
+        "React.js",
+        "Redux",
+        "LESS",
+        "ECMAScript 2015(ES6)",
+        "Node JS(With Express)"
+      ]
+    },
+    {
+      "name": "Others",
+      "level": "",
+      "keywords": [
+        "MySQL Database",
+        "Webpack",
+        "Bootstrap",
+        "DJango like templating engine",
+        "Git",
+        "Svn",
+        "JIRA",
+        "Confluence"  
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": []
+}
