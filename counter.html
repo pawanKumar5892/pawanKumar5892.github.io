@@ -1,0 +1,32 @@
+<!doctype html>
+<html>
+    <head>
+        <title>My Counter</title>
+
+    </head>
+    <body>
+        <div>
+            <div id="timer">
+                Timer
+            </div>
+        </div>
+       <script>
+            var timer = 60,
+            showTime = function(timeInSec){
+                document.querySelector("#timer").innerText = timeInSec;
+            },formatTime = function(timeInSec){
+                return Math.floor(timeInSec/60)+" : "+ (timeInSec%60);
+            },countDown = function(){
+                if(timer>0){
+                    showTime(timer--);
+                    setInterval(countDown,1000)
+                }else{
+                    alert("Ding!");
+                    time = 60;
+                }
+                
+            };
+            countDown()
+        </script> 
+    </body>
+</html>
