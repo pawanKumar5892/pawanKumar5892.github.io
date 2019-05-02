@@ -18,7 +18,7 @@
 <section class="title-notes">
 	<div>
 		<h1>Leaflet Map with basic search and route highlighting. </h1>
-		<h3>Please allow page to access your location to be more relavent to you. you may start interacting by clicking on the map, or searching the desired locations(From address and To address)</h3>
+		<h3>Please allow page to access your location to be more relavent to you. you may start interacting by clicking on the map, or searching the desired locations(start and end)</h3>
 		<p>Note: Limited search requests allowed - if found not working please paste desired lat and long in "start" and "end" inputs(lat,lng) to get the waypoints and route line. </p>
 	</div>
 </section>
@@ -36,6 +36,9 @@ let getMyLoc = (callBack)=>{
 		myCoords.lat = position.coords.latitude;
 		myCoords.long= position.coords.longitude;
   callBack([position.coords.latitude, position.coords.longitude]);
+}, (err)=>{
+	callBack([12.975880, 77.604523]);
+	console.warn(err);
 });
 }
 
